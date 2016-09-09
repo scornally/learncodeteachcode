@@ -1,4 +1,5 @@
 class asteroid{
+  //fields
   int radius;
   int x;
   int y;
